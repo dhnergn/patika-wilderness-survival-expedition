@@ -1,0 +1,6 @@
+{
+  "name": "PATİKA: Wilderness Survival Expedition",
+  "description": "An authentic outdoor survival, mountaineering, navigation, and camping simulation inspired by real-world wilderness skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
